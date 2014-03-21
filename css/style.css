@@ -1,0 +1,32 @@
+ 
+ 
+@import url(http://fonts.googleapis.com/css?family=Audiowide);
+
+.code{
+	
+	text-shadow:6px 7px 14px rgba(100,100,0,1);font-weight:normal;color:#33ff33;;letter-spacing:1pt;text-align:left;font-family:'Audiowide',helvetica, sans-serif;line-height:1;margin:10px;padding:0px;
+}
+
+
+html, body {
+	 /*height: 100%;*/
+}
+
+h1 {
+	
+	text-shadow:6px 7px 14px rgba(100,100,0,1);font-weight:normal;color:#33ff33;;letter-spacing:10pt;font-size:72px;text-align:left;font-family:'Audiowide',helvetica, sans-serif;line-height:1;margin:10px;padding:0px;
+	 
+}
+
+body {
+background: #009b36; /* Old browsers */
+background: -moz-linear-gradient(top,  #009b36 21%, #42eda0 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(21%,#009b36), color-stop(100%,#42eda0)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top,  #009b36 21%,#42eda0 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top,  #009b36 21%,#42eda0 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top,  #009b36 21%,#42eda0 100%); /* IE10+ */
+background: linear-gradient(to bottom,  #009b36 21%,#42eda0 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#009b36', endColorstr='#42eda0',GradientType=0 ); /* IE6-9 */
+*/
+}
+
